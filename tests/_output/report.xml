@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="acceptance" tests="1" assertions="17" errors="0" failures="0" skipped="0" time="1.173472">
+    <testcase file="/Users/samer.kamarkar/Desktop/test1/codeception/tests/acceptance/PaybackAnmeldenCest.php" name="paybackSignupTest" class="PaybackAnmeldenCest" feature="test  the Sign up for PAYBACK" assertions="17" time="1.173472"/>
+  </testsuite>
+</testsuites>
